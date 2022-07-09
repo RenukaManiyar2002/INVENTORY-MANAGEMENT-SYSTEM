@@ -1,0 +1,55 @@
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\Galaxy Inventory Management.exe
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\Galaxy Inventory Management.deps.json
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\Galaxy Inventory Management.runtimeconfig.json
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\Galaxy Inventory Management.runtimeconfig.dev.json
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\Galaxy Inventory Management.dll
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\Galaxy Inventory Management.pdb
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.vbproj.AssemblyReference.cache
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Frm_Loadingpg.resources
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Resources.resources
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.vbproj.GenerateResource.cache
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.AssemblyInfoInputs.cache
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.AssemblyInfo.vb
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.vbproj.CoreCompileInputs.cache
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.dll
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.pdb
+C:\Users\renuka\source\repos\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.genruntimeconfig.cache
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\Galaxy Inventory Management.exe
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\Galaxy Inventory Management.deps.json
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\Galaxy Inventory Management.runtimeconfig.json
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\Galaxy Inventory Management.runtimeconfig.dev.json
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\Galaxy Inventory Management.dll
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\Galaxy Inventory Management.pdb
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.vbproj.AssemblyReference.cache
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Frm_Loadingpg.resources
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Resources.resources
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.vbproj.GenerateResource.cache
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.AssemblyInfoInputs.cache
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.AssemblyInfo.vb
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.vbproj.CoreCompileInputs.cache
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.dll
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.pdb
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.genruntimeconfig.cache
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Frm_registration.resources
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy Inventory Management.vbproj.CopyComplete
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Frm_login.resources
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Frm_Product.resources
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Frm_Menu.resources
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.MDIParent1.resources
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Frm_Category.resources
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Frm_Customer.resources
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Frm_Order.resources
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Frm_Users.resources
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Frm_Product_Mng.resources
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Frm_Order_Mng.resources
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Frm_Customer_Mng.resources
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Frm_about.resources
+C:\Users\renuka\OneDrive\Desktop\Galaxy Inventory Management\Galaxy Inventory Management\obj\Debug\netcoreapp3.1\Galaxy_Inventory_Management.Frm_help.resources
